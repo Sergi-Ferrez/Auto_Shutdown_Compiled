@@ -1,5 +1,6 @@
 To Download it to Windows click on:
-  
+ - perfectoclock-win32-x64.7z
+And later on Download
 
 
 version https://git-lfs.github.com/spec/v1
